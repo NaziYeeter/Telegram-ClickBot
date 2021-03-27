@@ -54,3 +54,8 @@ pip install bs4
 - cd /path/to/folder
 
 - python Filename.py
+
+
+CHECK ISSUE FOR MORE INFORMATION 
+VISIT SITE IS CURRENTLY DOWN BECAUSE
+OF CLOUDFLARE PROTECTION 
